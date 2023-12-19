@@ -1,0 +1,7 @@
+1st -=> customer with registered atm card comes to atm
+2nd -=> enters card => gets account number
+3rd -=> checking account validity => yes and no 
+    no => create account
+    yes => continue 
+
+4th -=> password 
